@@ -15,6 +15,7 @@
   - What is a Pure Function? - [Link](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
   - What is Function Composition? - [Link](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
   - Soft skills - [Link](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
+- 16 JavaScript Concepts JavaScript Professionals Must Know Well - [Link](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
   
 - Understanding Hoisting in JavaScript - [Link1](https://scotch.io/tutorials/understanding-hoisting-in-javascript), [Link2](https://codeburst.io/javascript-what-is-hoisting-dfa84512dd28)
 - `let` vs `var` - [Link](https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var-to-declare-a-variable-in-jav)
