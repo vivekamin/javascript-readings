@@ -7,6 +7,10 @@
   - memory management + how to handle 4 common memory leaks - [Link](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
   
 - Mater the DOM - [Link](https://medium.com/re-dom/master-the-dom-bc1a2a06089b)
+- Event Loop Explained
+  - Youtube - [Link1](https://www.youtube.com/watch?v=8aGhZQkoFbQ), [LInk2](https://www.youtube.com/watch?v=P9csgxBgaZ8)
+  - Readings - [Link](https://karloespiritu.com/understanding-the-node-js-event-loop/)
+  - More reading - [Link](https://www.dynatrace.com/news/blog/all-you-need-to-know-to-really-understand-the-node-js-event-loop-and-its-metrics/), [Node.js Readings](https://nodejs.org/en/docs/guides/)
 - Master the JavaScript Interview By Eric Elliott:
   - What is Functional Programming? - [Link](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
   - What is a Closure? - [Link](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
