@@ -25,6 +25,7 @@
 
 * Understanding Hoisting in JavaScript - [Link1](https://scotch.io/tutorials/understanding-hoisting-in-javascript), [Link2](https://codeburst.io/javascript-what-is-hoisting-dfa84512dd28)
 * `let` vs `var` - [Link](https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var-to-declare-a-variable-in-jav)
+* `let` vs `var` vs `const`-[Link](https://dev.to/sarah_chima/var-let-and-const--whats-the-difference-69e)
 * Bubbling and capturing - [Link](https://javascript.info/bubbling-and-capturing)
 * Random Questions from StackOverflow
   - Which equals operator (== vs ===) should be used in JavaScript comparisons? - [Link](https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons),[ref](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
