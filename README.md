@@ -26,7 +26,7 @@
   - [Soft skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
 * [16 JavaScript Concepts JavaScript Professionals Must Know Well](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
 
-* [Understanding Hoisting in JavaScript](https://scotch.io/tutorials/understanding-hoisting-in-javascript), [Link2](https://codeburst.io/javascript-what-is-hoisting-dfa84512dd28)
+* [Understanding Hoisting in JavaScript](https://scotch.io/tutorials/understanding-hoisting-in-javascript)| [What is Hoisting?](https://codeburst.io/javascript-what-is-hoisting-dfa84512dd28)
 * [`let` vs `var`](https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var-to-declare-a-variable-in-jav)
 * [`let` vs `var` vs `const`](https://dev.to/sarah_chima/var-let-and-const--whats-the-difference-69e)
 * [Bubbling and capturing ](https://javascript.info/bubbling-and-capturing)
