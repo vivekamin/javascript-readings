@@ -13,7 +13,9 @@
   - [Philip Roberts: What the heck is the event loop anyway? | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
   - [Node's Event Loop From the Inside Out by Sam Roberts, IBM](https://www.youtube.com/watch?v=P9csgxBgaZ8)
   - [Jake Archibald: In The Loop - JSConf.Asia 2018](https://youtu.be/cCOL7MC4Pl0)
-  - Readings, [Understanding the Node.js Event Loop](https://karloespiritu.com/understanding-the-node-js-event-loop/), [All you need to know to really understand the Node.js Event Loop and its Metrics](https://www.dynatrace.com/news/blog/all-you-need-to-know-to-really-understand-the-node-js-event-loop-and-its-metrics/), [Node.js official explanation](https://nodejs.org/en/docs/guides/)
+  - [Understanding the Node.js Event Loop](https://karloespiritu.com/understanding-the-node-js-event-loop/)
+  - [All you need to know to really understand the Node.js Event Loop and its Metrics](https://www.dynatrace.com/news/blog/all-you-need-to-know-to-really-understand-the-node-js-event-loop-and-its-metrics/)
+  - [Node.js official explanation](https://nodejs.org/en/docs/guides/)
 * Master the JavaScript Interview By Eric Elliott:
   - [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
   - [What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
